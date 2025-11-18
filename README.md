@@ -1,4 +1,5 @@
 Project Titla - Vrinda Store Annual Report 
+
   The project analyzes Vrinda Store sales data using
   an interactive Excel dashboard to identify 
   Top customers, regions, channels, and growth opportunities.
